@@ -1,5 +1,3 @@
-# connect-four
-
 
 # 4 Gewinnt / Connect-four
 > A command-line based connect-four application. Since it was one of my first programming projects (2013) as a teenager, the design as well as the runtime of some functions kind of sucks. :) It also seems like the "Load Game"-functionality isn't implemented yet. 
